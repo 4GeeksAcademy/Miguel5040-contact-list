@@ -1,0 +1,36 @@
+input {
+    border: 1px solid lightgray;
+    padding: 5px 5px 5px 15px;
+    border-radius: 4px;
+}
+
+input::placeholder {
+    color: rgb(170, 169, 169);
+    padding: 5px;
+}
+
+.contenedor-submit button {
+    width: 100%;
+    border: none;
+    background-color: rgb(30, 128, 226);
+    color: white;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+button {
+    border: none;
+    background-color: rgb(30, 128, 226);
+    color: white;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.contenedor-form {
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+}

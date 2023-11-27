@@ -1,0 +1,43 @@
+.contenedor-elemento {
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    font-size: large;
+    padding: 20px;
+}
+
+img {
+    height: 130px;
+    width: auto;
+    border-radius: 50%;
+    object-fit: contain;
+}
+
+.contenedor-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor-buttons {
+    margin: 20px 0;
+}
+
+.iconos-acciones {
+    font-size: x-large;
+    cursor: pointer;
+    margin: 0 20px;
+    color: black;
+}
+
+.contenedor-texto {
+    margin-left: 45px;
+}
+
+.contenedor-texto p {
+    color: rgb(105, 105, 105);
+    margin: 0;
+}
+
+.contenedor-texto i {
+    margin-right: 15px;
+}
